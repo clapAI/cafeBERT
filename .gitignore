@@ -12,3 +12,4 @@ wheels/
 /src/output
 
 .idea
+.env
